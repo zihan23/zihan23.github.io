@@ -6,6 +6,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   Columbia University 
   <br><br>
   <a href="https://www.linkedin.com/in/zihan-wang-ab9176152/">View My LinkedIn Profile</a> 
-  
+
+social-network-links:
+  email: "Zihan Wang"
+  github: zihan23
+  linkedin: zihan-wang
+
+share-links-active:
+  linkedin: true
 theme: jekyll-theme-minimal
 
