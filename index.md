@@ -1,4 +1,6 @@
-## Portfolio
+## About Me
+
+Hey! I am Zihan, 
 
 ---
 
