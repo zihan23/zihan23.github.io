@@ -15,10 +15,12 @@ You can find my CV and list of projects as following categories.
 ### Projects
 
 [Derivatives Pricing](https://github.com/zihan23/Derivatives_Pricing)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Machine Learning and Deep Learning](https://github.com/zihan23/Machine_Deep_Learning)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
