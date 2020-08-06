@@ -18,7 +18,7 @@ You can find my CV and list of projects as following categories.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Machine Learning and Deep Learning](https://github.com/zihan23/Machine_Deep_Learning)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
