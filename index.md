@@ -10,20 +10,11 @@ You can find my CV and list of projects as following categories.
 
 [CV](/pdf/MSFE_2020_5_Wang_zw2517_Resume.pdf)
 
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
-### Category Name 2
+### Projects
 
-[Project 1 Title](/sample_page)
+[Derivatives Pricing](https://github.com/zihan23/Derivatives_Pricing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
