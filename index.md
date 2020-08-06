@@ -8,7 +8,7 @@ You can find my CV and list of projects as following categories.
 
 ### CV
 
-[CV](/pdf/CV.pdf)
+[CV](/pdf/MSFE_2020_5_Wang_zw2517_Resume.pdf)
 
 
 ---
