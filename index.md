@@ -9,7 +9,7 @@ You can find my CV and list of projects as following categories.
 ### CV
 
 [CV](/sample_page)
-<iframe src="https://drive.google.com/file/d/1OBD-FBLrzFc2R1QW-2n565JvJUf-yAPf/view" width="1100" height="800"></iframe>
+<iframe src="https://drive.google.com/file/d/1OBD-FBLrzFc2R1QW-2n565JvJUf-yAPf/view?usp=sharing" width="1100" height="800"></iframe>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
