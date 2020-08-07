@@ -10,7 +10,7 @@ After work, I like playing poker and dancing!
 
 ### CV
 
-[CV](/pdf/MSFE_2020_5_Wang_zw2517_Resume.pdf)
+[Zihan Resume](/pdf/MSFE_2020_5_Wang_zw2517_Resume.pdf)
 
 ---
 
