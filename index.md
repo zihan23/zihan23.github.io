@@ -25,7 +25,7 @@ After work, I like playing poker and dancing!
 
 
 ---
-[Optimization](https://github.com/zihan23/Machine_Deep_Learning)
+[Optimization](https://github.com/zihan23/Optimization)
 
 
 ---
