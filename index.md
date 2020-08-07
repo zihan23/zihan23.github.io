@@ -4,6 +4,8 @@ Hey! I am Zihan, graduated from Columbia University with Master in Financial Eng
 
 You can find my CV and list of projects as following categories.
 
+After work, I like playing poker and dancing!
+
 ---
 
 ### CV
