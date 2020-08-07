@@ -16,21 +16,14 @@ You can find my CV and list of projects as following categories.
 
 [Derivatives Pricing](https://github.com/zihan23/Derivatives_Pricing)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Machine Learning and Deep Learning](https://github.com/zihan23/Machine_Deep_Learning)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Optimization](https://github.com/zihan23/Machine_Deep_Learning)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
